@@ -3,7 +3,7 @@ This dataset contains single person motion capture sequences recorded at Birming
 * Sequences have been capture at 120hz
 * 3 recordings of 21 different motions (total 63 recordings)
 * Motion Sequences have been converted to FBX format and can be opened in a wide range of packages
-* All captured motions use a matchign skeletal rig
+* All captured motions use a matching skeletal rig
 * Motions have been trimmed
 * Motions have been resampled to populate redundant axes with frames
 
