@@ -7,7 +7,7 @@ This dataset contains single person motion capture sequences recorded at Birming
 * Motions have been trimmed
 * Motions have been resampled to populate redundant axes with frames
 
-<img src="/Mocap_SinglePersonActions/image of motions.jpg" alt="image of motions">
+<img src="image of motions.jpg" alt="image of motions">
 
 # License
 This work is distributed under the ['Open Data Commons Attribution License'](https://opendefinition.org/licenses/odc-by/)
