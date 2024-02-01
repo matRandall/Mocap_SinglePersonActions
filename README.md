@@ -15,10 +15,11 @@ This work is distributed under the ['Open Data Commons Attribution License'](htt
 If you use this work in creation of any publication or artifact, attribute it using the following bibtex:
 
 ```
- @misc{randall_2022, 
- title={Motion Capture Dataset of Single Person Actions}, 
- url={https://github.com/matRandall/Mocap_SinglePersonActions/}, 
- journal={GitHub}, 
- author={Randall, Mathew}, 
- year={2022}} 
+@article{randall2023correlation,
+  title={Correlation as a measure for alignment and similarity of human motions},
+  author={Randall, Mathew and Harvey, Carlo and Williams, Ian},
+  journal={Computer Animation and Virtual Worlds},
+  pages={e2157},
+  publisher={Wiley Online Library}
+}
 ```
